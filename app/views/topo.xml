@@ -1,0 +1,5 @@
+<Alloy>
+	<View class="container" id="topo">
+		<Require src="menu"></Require>
+	</View>
+</Alloy>

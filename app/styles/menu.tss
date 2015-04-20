@@ -1,0 +1,25 @@
+".btn":{
+	width: 30,
+	height: 30,
+	right: 10
+}
+"#view_btns":{
+	width: Titanium.UI.SIZE,
+	height: Titanium.UI.SIZE,
+	layout: 'horizontal',
+	right: 15,
+	backgroundColor: 'green'
+}
+
+".search":{
+	image: '/images/btnSearch.png',
+}
+".favoritos":{
+	image: '/images/btnFavoritos.png',
+}
+".contato":{
+	image: '/images/btnContato.png',
+}
+".institucional":{
+	image: '/images/btnInstitucional.png',
+}

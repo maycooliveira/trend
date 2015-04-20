@@ -1,0 +1,9 @@
+".container": {
+	backgroundColor:"white",
+	layout: 'vertical',
+}
+"#conteudo":{
+	backgroundColor: 'red',
+	width: Titanium.UI.FILL,
+	height: Titanium.UI.FILL
+}

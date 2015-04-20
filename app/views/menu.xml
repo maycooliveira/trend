@@ -1,0 +1,8 @@
+<Alloy>
+	<View id="view_btns">
+		<ImageView class="btn institucional"></ImageView>
+		<ImageView class="btn contato"></ImageView>
+		<ImageView class="btn favoritos"></ImageView>
+		<ImageView class="btn search"></ImageView>
+	</View>
+</Alloy>

@@ -1,0 +1,6 @@
+<Alloy>
+	<Window class="container">
+		<Require src="topo" id="topo"></Require>
+		<View id="conteudo"></View>
+	</Window>
+</Alloy>

@@ -1,0 +1,4 @@
+".container" : {
+	navBarHidden: true,
+	theme: "Theme.AppCompat.Fullscreen"
+}

@@ -1,0 +1,6 @@
+".container" : {
+ // layout: 'horizontal',
+  width: Titanium.UI.FILL,
+  height: 40,
+  backgroundColor: 'yellow'
+}
